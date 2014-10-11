@@ -1,4 +1,4 @@
-function [ similarity ] = getEpidemicWordSimilarity(newSimFile, epidemicWordFile  )
+function [ similarity ] = getEpidemicWordSimilarity1(newSimFile, epidemicWordFile  )
 %Computes the similarity between the file present in newSimFilePath and the
 %epidemic word file
 
